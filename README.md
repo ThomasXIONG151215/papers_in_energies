@@ -1,2 +1,3 @@
 # EnergyPapers
-A place to gather valuable papers in the field of energy applications and advanced research
+A place to share valuable informations regarding energy research and applications accross all industrial fields.
+Sharing not only academic papers, but also corporations documents, industrial software guidance etc.
