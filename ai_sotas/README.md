@@ -2,6 +2,9 @@
 The advanced methods in the field of artificial intelligence that may help in applied energies
 
 ## [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://github.com/ThomasXIONG151215/papers_in_energies/blob/main/ai_sotas/Informer.pdf)
+
+Contributor: [Thomas](https://github.com/ThomasXIONG151215)
+
 Informer is a long sequence time-series forecasting model based on Transformer:
 
 * It would be benefiial to employ it on industrial cases relying on precise prediction of numerous environment parameters as well as system parameters
